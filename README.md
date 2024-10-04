@@ -1,5 +1,6 @@
 # -ADO_1_WEB_STANDARDS
 
+
 <h1> As tags HTML para títulos </h1> <p> são baseadas em hieraquia, de acordo com a importancia do titulo você cria elas numeradas em até 6 tags, ex: H1. H2, H3, H4, H5 e H6. O H1 é para o titulo pai, o H2 é o subtitulo e a partir do H3 são subtitulos filhos. 
 </p>
 
@@ -17,4 +18,4 @@
 Descreva a função das tags de título (<h1> a <h6>), a tag <a> para links, e as tags de tabela (<table>, <tr>, <td>, <th>).
 Adicionalmente, explique o uso das tags <strong>, <span>, e <small>, destacando como cada uma delas pode ser utilizada para melhorar a formatação.
 Mostre exemplos práticos para cada uma dessas tags, incluindo o código HTML e prints da visualização no navegador. 
-Crie um documento em qualquer editor de texto, como Word, para compilar sua pesquisa, exemplos e prints </small> <p>
+Crie um documento em qualquer editor de texto, como Word, para compilar sua pesquisa, exemplos e prints </small> </p>
