@@ -10,19 +10,12 @@ As tags HTML para tabelas são usadas para organizar suas informações em colun
 
 
 
-
-
-
-
-
 <h1/> ADO 1 </h1>
 
-<p>Fala pessoal, tudo bem?
+<p>Fala pessoal, tudo bem?</p>
 
 Pesquise sobre as tags HTML para títulos, links, tabelas, e também sobre as tags <strong>, <span>, e <small>. 
 Descreva a função das tags de título (<h1> a <h6>), a tag <a> para links, e as tags de tabela (<table>, <tr>, <td>, <th>).
 Adicionalmente, explique o uso das tags <strong>, <span>, e <small>, destacando como cada uma delas pode ser utilizada para melhorar a formatação.
-
 Mostre exemplos práticos para cada uma dessas tags, incluindo o código HTML e prints da visualização no navegador. 
-
-Crie um documento em qualquer editor de texto, como Word, para compilar sua pesquisa, exemplos e prints </p>
+Crie um documento em qualquer editor de texto, como Word, para compilar sua pesquisa, exemplos e prints 
