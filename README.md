@@ -9,7 +9,7 @@
  As tags HTML para links Links </h1> <p> cria hiperlink para navegar de pagina em pagina ex: <a href="https://www.exemplo.com">Texto do Link</a> essa tag mostra que para ir na ba de outro site, o a de âncora é o principal para fazer essa aação de mudar de abas  e nesse caso do exemplo eu mostro que quando o usuario clicar no "Texto do Link" ele vai ser direcionado para outra aba!
 
 # As tags HTML para tabelas
-são usadas para organizar suas informações em colunas e linhas em formato tabular, temos 3 tags que representam a tabela para iniciar e finalizar a tabela em si é usada a tag <table> </table>, já para criar linhas é usada a tag tr ou th é usado para definir o cabeçalho da tabela por ultimo ou td  serve para criar as colunas. 
+são usadas para organizar suas informações em colunas e linhas em formato tabular, temos 3 tags que representam a tabela para iniciar e finalizar a tabela em si é usada a tag table, já para criar linhas é usada a tag tr ou th é usado para definir o cabeçalho da tabela por ultimo ou td  serve para criar as colunas. 
 
 
 ## AD0_01_WEB_STANDARDS
