@@ -16,7 +16,7 @@ são usadas para organizar suas informações em colunas e linhas em formato tab
 
 Fala pessoal, tudo bem? 
 
-Pesquise sobre as tags HTML para títulos, links, tabelas, e também sobre as tags <strong>, <span>, e <small>. 
+Pesquise sobre as tags HTML para títulos, links, tabelas, e também sobre as tags ( <strong>, <span>, e <small>. )
 Descreva a função das tags de título (<h1> a <h6>), a tag <a> para links, e as tags de tabela (<table>, <tr>, <td>, <th>).
 Adicionalmente, explique o uso das tags <strong> </strong>, <span> </span>, e <small></small>, destacando como cada uma delas pode ser utilizada para melhorar a formatação.
 Mostre exemplos práticos para cada uma dessas tags, incluindo o código HTML e prints da visualização no navegador. 
