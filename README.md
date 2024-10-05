@@ -1,4 +1,4 @@
-# -ADO_1_WEB_STANDARDS
+# _ADO_1_WEB_STANDARDS
 
 # As tags HTML para títulos
 
@@ -10,6 +10,18 @@
 
 # As tags HTML para tabelas
 são usadas para organizar suas informações em colunas e linhas em formato tabular, temos 3 tags que representam a tabela para iniciar e finalizar a tabela em si é usada a tag table, já para criar linhas é usada a tag tr ou th é usado para definir o cabeçalho da tabela por ultimo ou td  serve para criar as colunas. 
+
+## STRONG
+A tag <strong> em HTML indica que o texto tem uma importância especial e é exibido em 
+negrito. Ela serve para dar ênfase ao conteúdo.
+
+
+ ##  SPAN
+A tag <span> é uma tag HTML que altera a cor de uma palavra específica em um parágrafo
+
+ ## SMALL
+A tag <small> em HTML serve para mostrar texto em um tamanho menor que o texto ao redor.
+
 
 
 ## AD0_01_WEB_STANDARDS
